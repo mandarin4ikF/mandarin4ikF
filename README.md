@@ -9,13 +9,23 @@
   <img src="https://skillicons.dev/icons?i=cpp,arduino,clion,python,docker,vscode,github,linux,windows&perline=3" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=313tglmjxtmik2oieafawyqov6ry&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false">
-  </a>
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mandarin4ikF/mandarin4ikF/main/profile-summary-card-output/chartreuse_dark/0-profile-details.svg" width="90%" />
+  
+  <div style="display: flex; justify-content: center; gap: 20px; margin-top: 10px;">
+    <div>
+      <img src="https://raw.githubusercontent.com/mandarin4ikF/mandarin4ikF/main/profile-summary-card-output/chartreuse_dark/3-stats.svg" width="400" />
+      <img src="https://raw.githubusercontent.com/mandarin4ikF/mandarin4ikF/main/profile-summary-card-output/chartreuse_dark/4-productive-time.svg" width="400" />
+    </div>
+    <div>
+      <a href="https://github.com/kittinan/spotify-github-profile">
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=313tglmjxtmik2oieafawyqov6ry&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false" height="350" />
+      </a>
+    </div>
+  </div>
 
-[![](https://raw.githubusercontent.com/mandarin4ikF/mandarin4ikF/main/profile-summary-card-output/chartreuse_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/mandarin4ikF/mandarin4ikF/main/profile-summary-card-output/chartreuse_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/mandarin4ikF/mandarin4ikF/main/profile-summary-card-output/chartreuse_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+  <div style="margin-top: 20px;">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="60%" />
+  </div>
+</div>
 
