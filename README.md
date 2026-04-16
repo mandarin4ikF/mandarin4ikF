@@ -23,9 +23,5 @@
       </a>
     </div>
   </div>
-
-  <div style="margin-top: 20px;">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="60%" />
-  </div>
 </div>
 
